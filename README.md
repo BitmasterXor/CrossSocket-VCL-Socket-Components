@@ -2,6 +2,7 @@
 **High-Performance Cross-Platform Socket Components for Delphi**
 
 > **📢 Important Note:** These components are **Work In Progress** at this time they WORK 100% they are Stable... some properties need to be removed as they are NOT functional im taking these sockets a different direction and need to remove some things. NO BIG DEAL ENJOY THEM!
+> 
 > **📢 Important Note:** These components are **wrapper components** that make CrossSocket's base socket functionality drag-and-drop easy to use in Delphi. We wrap the original CrossSocket framework to provide familiar Delphi component architecture.
 > 
 > **🔮 Future Updates:** CrossSocket has additional HTTP libraries and other socket types. Keep an eye on this repo - we may expand to wrap those libraries as well!
