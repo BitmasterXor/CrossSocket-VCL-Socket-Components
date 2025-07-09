@@ -36,7 +36,7 @@
 
 ### 🎯 **Built for Modern Applications**
 - **CrossSocket Framework**: Leverages the powerful CrossSocket async networking architecture
-- **Cross-Platform Ready**: Windows, Linux, macOS support through CrossSocket
+- **Cross-Platform Ready**: Windows, Linux, macOS support through CrossSocket (Works and Tested for Windows... we may update this component library in the future to support more OS'es)
 - **Real-Time Bidirectional**: Instant push/pull communication between client and server
 
 ### 🔧 **Developer-Friendly**
