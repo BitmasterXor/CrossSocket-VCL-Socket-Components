@@ -9,7 +9,7 @@
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
 ![Delphi](https://img.shields.io/badge/Delphi-XE2%2B-red?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Cross--Platform-green?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Open%20Source-orange?style=for-the-badge)
 
 </div>
