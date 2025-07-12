@@ -6,6 +6,7 @@
 > **📢 Important Note:** These components are **wrapper components** that make CrossSocket's base socket functionality drag-and-drop easy to use in Delphi. We wrap the original CrossSocket framework to provide familiar Delphi component architecture.
 > 
 > **🔮 Future Updates:** CrossSocket has additional HTTP libraries and other socket types. Keep an eye on this repo - we may expand to wrap those libraries as well!
+> 
 > **🔮 Future Update RELEASED:** I have wrapped CrossSocket Websockets and released them as well with this Repository, Enjoy Everyone!
 
 <div align="center">
